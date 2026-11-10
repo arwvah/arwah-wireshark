@@ -1,4 +1,4 @@
-# Arwah Traffic Guard
+# plugin for wireshark
 
 [![Tests](https://github.com/arwvah/arwah-wireshark/actions/workflows/test.yml/badge.svg)](https://github.com/arwvah/arwah-wireshark/actions/workflows/test.yml)
 
